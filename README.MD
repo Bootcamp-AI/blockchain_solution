@@ -1,9 +1,4 @@
-[![GitHub](assets/icons/licenseMIT.svg)](LICENSE.md)
-
-# Udacity Blockchain Development Nanodegree
-
-## About Me
-Why hello there. I’m Tom 👋 I am a freelance growth marketing consultant working with brands like BMW, ING, Sony Music, Philips, etc. Because of my education in tech, I am always on the lookout of the next big thing. My curioucity drove me to learning blockchain development to understand the core features of blockchain technology. One of the ways to learn was to enroll in Udacity's nanodegree program.
+# Blockchain Development Nanodegree
 
 ## Nanodegree Projects
 
@@ -57,7 +52,7 @@ This project is build cryptostar dapp that implements a star notary smart contra
 * Sample star creation transaction hash: [`0x841e3b8828e7d2989a3d8f2e439127547f78c39936d16da254c2ce3d786f5ebd`](https://rinkeby.etherscan.io/tx/0x841e3b8828e7d2989a3d8f2e439127547f78c39936d16da254c2ce3d786f5ebd)
 * Contract decoded: (https://rinkeby.etherscan.io/bytecode-decompiler?a=0xdf7a49a99732465ad617ca3b6b0eb858afa74647)
 
-More information about this project is available in the project folder: [Ethereum Smart Contracts, Tokens and Dapps](https://github.com/tomdemoor/udacity-blockchain-developer-assignments/tree/master/2.%20Ethereum%20Smart%20Contracts%2C%20tokens%20and%20Dapps).
+More information about this project is available in the project folder: [Ethereum Smart Contracts, Tokens and Dapps](https://github.com/Bootcamp-AI/blockchain_solution/tree/master/2.%20Ethereum%20Smart%20Contracts%2C%20tokens%20and%20Dapps).
 
 - - - -
 
@@ -75,13 +70,13 @@ Contract has been deployed on rinkeby test network:
 Transaction Details:
 [0x1195c69cfe27ebdf4d8aba99603a8d6b808d53677fdbf84202e6fb1772b119cc](https://rinkeby.etherscan.io/tx/0x1195c69cfe27ebdf4d8aba99603a8d6b808d53677fdbf84202e6fb1772b119cc)
 
-More information about this project is available in the project folder: [Blockchain Architecture](https://github.com/tomdemoor/udacity-blockchain-developer-assignments/tree/master/3.%20Blockchain%20Architecture).
+More information about this project is available in the project folder: [Blockchain Architecture](https://github.com/Bootcamp-AI/blockchain_solution/tree/master/3.%20Blockchain%20Architecture).
 
 - - - -
 
 ## Chapter 4: Dapps with autonomous smart contracts
 
-FlightSurety is a project for Udacity's Blockchain course on flight insurance. This project is based on the ethereum blockchain.
+FlightSurety is a project for Blockchain course on flight insurance. This project is based on the ethereum blockchain.
 
 Features:
 * Passengers can buy flight insurance
@@ -93,7 +88,7 @@ Features:
 
 > NOTE : The starter code of this project was modified so it functions with the latest Truffle & Web3 configurations. It follows an updated Solidity Compiler 0.6.5
 
-More information about this project is available in the project folder: [Dapp with autonomous smart contracts and oracles](https://github.com/tomdemoor/udacity-blockchain-developer-assignments/tree/master/4.%20Dapp%20with%20autonomous%20smart%20contracts%20and%20oracles).
+More information about this project is available in the project folder: [Dapp with autonomous smart contracts and oracles](https://github.com/Bootcamp-AI/blockchain_solution/tree/master/4.%20Dapp%20with%20autonomous%20smart%20contracts%20and%20oracles).
 
 - - - -
 
